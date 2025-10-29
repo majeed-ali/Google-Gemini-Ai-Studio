@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI Image Studio",
+  "description": "A web application for generating and editing images using Gemini. Create stunning visuals from text prompts with various styles, and refine them with intuitive editing tools.",
+  "requestFramePermissions": []
+}
